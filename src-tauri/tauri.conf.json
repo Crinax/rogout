@@ -48,7 +48,7 @@
     "windows": [
       {
         "fullscreen": true,
-        "resizable": false,
+        "resizable": true,
         "title": "rogout",
         "decorations": false,
         "transparent": true
